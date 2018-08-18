@@ -1,0 +1,4 @@
+export const REGISTER_WEB3 = 'REGISTER_WEB3'
+export const FETCH_USERS = 'FETCH_USERS'
+export const RECEIVE_USERS = 'RECEIVE_USERS'
+export const FETCH_CONTRACT = 'FETCH_CONTRACT'
